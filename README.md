@@ -1,4 +1,5 @@
 本配置基于[github.com/gorquan/OC-XPS-7590](url)修改以支持4K机型
+
 **仅支持Dell XPS 15 7590 4K 机型**
 OpenCore 版本 0.6.4
 macOS 版本 11.0.1-11.1 **不支持10.15及以下！**
