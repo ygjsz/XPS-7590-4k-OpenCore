@@ -113,4 +113,4 @@ sudo pmset -a tcpkeepalive 0 # 如果仍然睡不着可以尝试一下睡眠期�
 如果采用两者，则**不要**再将`hda-verb`安装在`/usr/local/bin`目录下面，因为`ALCPlugFix`已经安装`hda-verb`到系统。
 
 系统截图
-[upl-image-preview url=https://windowsvistabar.s3.ap-southeast-1.amazonaws.com/2021-01-02/1609579687-971914-image.png]
+![image](https://windowsvistabar.s3.ap-southeast-1.amazonaws.com/2021-01-02/1609579687-971914-image.png)
